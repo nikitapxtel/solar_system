@@ -7,4 +7,6 @@ Assumption for this solar system project:
 
 ------
 
+## Output
 
+![alt text](https://github.com/nikitapxtel/solar_system/blob/master/photos/solar-system.png "Solar System Output")
