@@ -5,5 +5,6 @@ Assumption for this solar system project:
 2. We will assume it take the same amount of time for the planets to revolve around the sun
 3. All planets will be 45 degrees of distance from the planets it's next to as we have 8 planets - sorry Pluto
 
---
+------
+
 
